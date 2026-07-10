@@ -117,3 +117,19 @@ Performance depends on:
 - Block size
 - Python version
 - coincurve implementation
+
+## Donations
+
+If you find this project useful and would like to support its development, you can donate Bitcoin.
+
+**Bitcoin (BTC)**
+
+```
+bc1qlhpleren2hxklzk6r8qj2ap63u2nuczj5cz0wr
+```
+
+Or send directly to:
+
+**bc1qlhpleren2hxklzk6r8qj2ap63u2nuczj5cz0wr**
+
+Thank you for your support!
